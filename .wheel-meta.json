@@ -1,0 +1,22 @@
+{
+  "wheel_id": 443,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-152",
+  "project": "retaining-walls-sydney-signs-you-need-4cc2110e5e3878c324d0befc0",
+  "parent_t1_ref": "retainingwallssydney-008",
+  "node_role": "buffer",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining walls sydney signs you need",
+  "intended_url": "https://sitesau.github.io/retainingwallssydney-152/",
+  "tier": "T2",
+  "writeback_nonce": "48607602dbacb7bb",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-sydney/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
